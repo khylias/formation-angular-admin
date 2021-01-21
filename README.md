@@ -7,7 +7,7 @@ Premier pas et initiation au framework Angular avec le développement d'une weba
 - [Créer le dashboard](/2_Creer%20le%20Dashboard.md)
 - [Créer le menu principal](/3_Creer%20le%20menu%20principal.md)
 - [Créer des composants partagés](/4_Creer%20des%20composants%20partages.md)
-- [Gérer la donn ée](/5_Gérer%20la%20donnée.md)
+- [Gérer la donnée](/5_Gérer%20la%20donnée.md)
 - [Ajouter du contenu](/6_Ajouter%20du%20contenu.md)
 - [Envoyer ses données](/7_Envoyer%20ses%20données.md)
 - [Sécuriser notre application](/8_Sécuriser%20notre%20application.md)
